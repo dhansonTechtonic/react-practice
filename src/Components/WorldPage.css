@@ -1,0 +1,31 @@
+h5{
+    color: rgba(255, 255, 255, 0.835);
+    padding: 0.25em;
+    width: 20em;
+    margin-left: 1.5em;
+    margin-top: 0;
+}
+
+ul{
+    list-style: none;
+    width: 10em;
+}
+
+li{
+    color: rgba(255, 255, 255, 0.835);
+    padding: 0.25em;
+    width: 20em;
+    margin-top: 0; 
+}
+
+.other-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.section-title{
+    margin-bottom: 0;
+    color: white;
+    width: 10em;
+}

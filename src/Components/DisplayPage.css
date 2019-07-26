@@ -1,0 +1,25 @@
+h2{
+    position: relative;
+    top: 0em;
+    left: 1em;
+    color: white;
+    margin-bottom: 0;
+    width: 20em;
+}
+
+h3{
+    color: rgb(218, 218, 218);
+    font-size: 1em;
+    width: 95%;
+    padding: 0.5em 0em 0em 1.5em;
+    margin-top:0;
+}
+
+.info{
+    background-color: #000000ca;
+    padding: 0.25em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 89.5em;
+}
