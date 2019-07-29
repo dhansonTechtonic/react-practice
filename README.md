@@ -29,4 +29,3 @@ Info Page:
 Database:
 
 - where you will get all the information you need on Spyro the video game. You can populate it with your own information
-# react-practice-spyro
